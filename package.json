@@ -1,0 +1,16 @@
+{
+  "name": "meanstacktest",
+  "version": "1.0.0",
+  "description": "test mean stack with angular cli",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}

@@ -1,0 +1,28 @@
+
+---------------ANGULAR CLI----------------------
+The Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
+    //https://github.com/angular/angular-cli/wiki
+    //https://github.com/angular/angular-cli#documentation
+    //https://cli.angular.io/
+npm install -g @angular/cli
+    //The Angular CLI makes it easy to create an application
+    //that already works, right out of the box. It already follows our best practices!
+    //The Angular CLI is a tool to initialize, develop, scaffold and maintain Angular applications
+
+    //Create new project
+$ ng new NEWPROJECTNAME
+     //Redirect
+$ cd NEWPROJECTNAME
+    //Build before installing express
+$ ng build
+    //Get express
+npm install express body-parser --save
+---app.get VS app.use---
+https://stackoverflow.com/questions/15601703/difference-between-app-use-and-app-get-in-express-js
+----
+
+---ANGULAR LIGHT---
+http://angularlight.org/
+https://github.com/lega911/angular-light
+https://medium.com/@ismapro/first-steps-with-angular-cli-and-angular-material-5a90406e9a4
+https://material.angular.io/components/checkbox/overview
